@@ -11,4 +11,4 @@ My project includes mainly three parts:
 2. Animated GIF creation
 3. HTML creation  
    
-Click [here]() to see my Github page.
+Click [here](https://github.com/XinyueZhangJ) to see my Github page.
