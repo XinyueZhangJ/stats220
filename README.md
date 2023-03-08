@@ -1,5 +1,14 @@
-# stats220  
-
-https://github.com/XinyueZhangJ/stats220/blob/main/README.md#stats220  
-
-_hi everyone!this is the first R language assignment of Xinyue Zhang. _
+# STAT220   
+*Hi everyone! This is the first R language assignment of Xinyue Zhang.*  
+## About me:
+Here are some of my favorite foods ٩(๑´0`๑)۶:  
+* Chocolate ice cream
+* Cheese cake
+* Durian crepe
+## About my project:
+My project includes mainly three parts:
+1. Meme creation
+2. Animated GIF creation
+3. HTML creation  
+   
+Click [here]() to see my Github page.
