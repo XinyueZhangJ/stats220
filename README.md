@@ -6,7 +6,7 @@ Here are some of my favorite foods ٩(๑´0`๑)۶:
 * Cheese cake
 * Durian crepe
 ## About my project:
-My project includes mainly three parts:
+My project contains mainly three parts:
 1. Meme creation
 2. Animated GIF creation
 3. HTML creation  
