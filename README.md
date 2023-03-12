@@ -1,5 +1,5 @@
 # **STAT220**   
-*Hi everyone! This is the first R language assignment of Xinyue Zhang.*  
+*Hi everyone! This is the first R language assignment of Xinyue Jenny Zhang.*  
 
 ## About me:
 Here are some of _my favorite_ foods ٩(๑´0`๑)۶: 
